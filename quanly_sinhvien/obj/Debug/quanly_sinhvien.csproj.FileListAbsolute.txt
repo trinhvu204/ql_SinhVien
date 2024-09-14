@@ -1,0 +1,7 @@
+C:\Users\bobmi\source\repos\quanly_sinhvien\quanly_sinhvien\bin\Debug\quanly_sinhvien.exe.config
+C:\Users\bobmi\source\repos\quanly_sinhvien\quanly_sinhvien\bin\Debug\quanly_sinhvien.exe
+C:\Users\bobmi\source\repos\quanly_sinhvien\quanly_sinhvien\bin\Debug\quanly_sinhvien.pdb
+C:\Users\bobmi\source\repos\quanly_sinhvien\quanly_sinhvien\obj\Debug\quanly_sinhvien.csproj.AssemblyReference.cache
+C:\Users\bobmi\source\repos\quanly_sinhvien\quanly_sinhvien\obj\Debug\quanly_sinhvien.csproj.CoreCompileInputs.cache
+C:\Users\bobmi\source\repos\quanly_sinhvien\quanly_sinhvien\obj\Debug\quanly_sinhvien.exe
+C:\Users\bobmi\source\repos\quanly_sinhvien\quanly_sinhvien\obj\Debug\quanly_sinhvien.pdb
